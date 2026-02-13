@@ -1,0 +1,49 @@
+{
+    "seed": -2045550868,
+    "totalItemBudget": 1,
+    "noiseScale": 0.6000000238418579,
+    "noiseThreshold": 0.44999998807907107,
+    "globalDifficulty": 1.399999976158142,
+    "penaltyIntensity": 2.5,
+    "tradeOffSpawnChance": 30.0,
+    "rooms": [
+        {
+            "roomLevel": 2,
+            "items": []
+        },
+        {
+            "roomLevel": 2,
+            "items": []
+        },
+        {
+            "roomLevel": 3,
+            "items": []
+        },
+        {
+            "roomLevel": 3,
+            "items": []
+        },
+        {
+            "roomLevel": 4,
+            "items": []
+        },
+        {
+            "roomLevel": 4,
+            "items": []
+        },
+        {
+            "roomLevel": 23,
+            "items": [
+                {
+                    "name": "[Unique] Lv.23 Gear",
+                    "rarity": 3,
+                    "stats": "S:27 A:14",
+                    "worldPos": {
+                        "x": 8.5,
+                        "y": 21.5
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1717 @@
+{
+    "seed": 1799737115,
+    "globalDifficulty": 2.0,
+    "penaltyIntensity": 1.5,
+    "tradeOffSpawnChance": 60.0,
+    "rooms": [
+        {
+            "roomLevel": 2,
+            "items": [
+                {
+                    "name": "[Normal] Lv.2 Gear",
+                    "rarity": 0,
+                    "stats": "S:3 A:2",
+                    "worldPos": {
+                        "x": 7.5,
+                        "y": 22.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 2,
+            "items": [
+                {
+                    "name": "[Rare] Lv.2 Gear",
+                    "rarity": 1,
+                    "stats": "S:13 A:7",
+                    "worldPos": {
+                        "x": 4.5,
+                        "y": 34.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.2 Gear",
+                    "rarity": 3,
+                    "stats": "S:13 A:7 MS:+33%",
+                    "worldPos": {
+                        "x": 8.5,
+                        "y": 28.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.2 Gear",
+                    "rarity": 3,
+                    "stats": "S:13 A:7",
+                    "worldPos": {
+                        "x": 2.5,
+                        "y": 35.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 3,
+            "items": [
+                {
+                    "name": "[Normal] Lv.3 Gear",
+                    "rarity": 0,
+                    "stats": "S:3 A:2",
+                    "worldPos": {
+                        "x": 14.5,
+                        "y": 40.5
+                    }
+                },
+                {
+                    "name": "[Normal] Lv.3 Gear",
+                    "rarity": 0,
+                    "stats": "S:3 A:2",
+                    "worldPos": {
+                        "x": 15.5,
+                        "y": 42.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 3,
+            "items": [
+                {
+                    "name": "[Rare] Lv.3 Gear",
+                    "rarity": 1,
+                    "stats": "S:7 A:4",
+                    "worldPos": {
+                        "x": 14.5,
+                        "y": 10.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.3 Gear",
+                    "rarity": 2,
+                    "stats": "S:10 A:6",
+                    "worldPos": {
+                        "x": 17.5,
+                        "y": 18.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 4,
+            "items": [
+                {
+                    "name": "[Rare] Lv.4 Gear",
+                    "rarity": 1,
+                    "stats": "S:7 A:4",
+                    "worldPos": {
+                        "x": 18.5,
+                        "y": 54.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.4 Gear",
+                    "rarity": 3,
+                    "stats": "S:14 A:8 MS:-14%",
+                    "worldPos": {
+                        "x": 18.5,
+                        "y": 56.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 5,
+            "items": [
+                {
+                    "name": "[Epic] Lv.5 Gear",
+                    "rarity": 2,
+                    "stats": "S:11 A:6 MS:+19%",
+                    "worldPos": {
+                        "x": 8.5,
+                        "y": 60.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.5 Gear",
+                    "rarity": 3,
+                    "stats": "S:22 A:12",
+                    "worldPos": {
+                        "x": 6.5,
+                        "y": 62.5
+                    }
+                },
+                {
+                    "name": "[Normal] Lv.5 Gear",
+                    "rarity": 0,
+                    "stats": "S:8 A:4",
+                    "worldPos": {
+                        "x": 7.5,
+                        "y": 53.5
+                    }
+                },
+                {
+                    "name": "[Normal] Lv.5 Gear",
+                    "rarity": 0,
+                    "stats": "S:11 A:6",
+                    "worldPos": {
+                        "x": 5.5,
+                        "y": 54.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 6,
+            "items": [
+                {
+                    "name": "[Unique] Lv.6 Gear",
+                    "rarity": 3,
+                    "stats": "S:20 A:10",
+                    "worldPos": {
+                        "x": 2.5,
+                        "y": 71.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.6 Gear",
+                    "rarity": 2,
+                    "stats": "S:16 A:8",
+                    "worldPos": {
+                        "x": 3.5,
+                        "y": 74.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.6 Gear",
+                    "rarity": 2,
+                    "stats": "S:20 A:10",
+                    "worldPos": {
+                        "x": 8.5,
+                        "y": 73.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 7,
+            "items": [
+                {
+                    "name": "[Epic] Lv.7 Gear",
+                    "rarity": 2,
+                    "stats": "S:20 A:11",
+                    "worldPos": {
+                        "x": 7.5,
+                        "y": 83.5
+                    }
+                },
+                {
+                    "name": "[Normal] Lv.7 Gear",
+                    "rarity": 0,
+                    "stats": "S:12 A:6",
+                    "worldPos": {
+                        "x": 3.5,
+                        "y": 82.5
+                    }
+                },
+                {
+                    "name": "[Rare] Lv.7 Gear",
+                    "rarity": 1,
+                    "stats": "S:16 A:9",
+                    "worldPos": {
+                        "x": 6.5,
+                        "y": 81.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.7 Gear",
+                    "rarity": 2,
+                    "stats": "S:20 A:11 Crit:+10%",
+                    "worldPos": {
+                        "x": 4.5,
+                        "y": 86.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 8,
+            "items": [
+                {
+                    "name": "[Rare] Lv.8 Gear",
+                    "rarity": 1,
+                    "stats": "S:8 A:4",
+                    "worldPos": {
+                        "x": 15.5,
+                        "y": 90.5
+                    }
+                },
+                {
+                    "name": "[Rare] Lv.8 Gear",
+                    "rarity": 1,
+                    "stats": "S:17 A:9",
+                    "worldPos": {
+                        "x": 13.5,
+                        "y": 80.5
+                    }
+                },
+                {
+                    "name": "[Normal] Lv.8 Gear",
+                    "rarity": 0,
+                    "stats": "S:8 A:4",
+                    "worldPos": {
+                        "x": 17.5,
+                        "y": 81.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 9,
+            "items": [
+                {
+                    "name": "[Unique] Lv.9 Gear",
+                    "rarity": 3,
+                    "stats": "S:22 A:12 MS:+22% MS:-17% FireVuln:+44%",
+                    "worldPos": {
+                        "x": 32.5,
+                        "y": 87.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.9 Gear",
+                    "rarity": 3,
+                    "stats": "S:17 A:9 FireVuln:+44%",
+                    "worldPos": {
+                        "x": 32.5,
+                        "y": 93.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 10,
+            "items": [
+                {
+                    "name": "[Unique] Lv.10 Gear",
+                    "rarity": 3,
+                    "stats": "S:18 A:10 Crit:+23%",
+                    "worldPos": {
+                        "x": 37.5,
+                        "y": 72.5
+                    }
+                },
+                {
+                    "name": "[Normal] Lv.10 Gear",
+                    "rarity": 0,
+                    "stats": "S:4 A:2",
+                    "worldPos": {
+                        "x": 34.5,
+                        "y": 76.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.10 Gear",
+                    "rarity": 2,
+                    "stats": "S:22 A:12 Crit:+23%",
+                    "worldPos": {
+                        "x": 31.5,
+                        "y": 72.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.10 Gear",
+                    "rarity": 2,
+                    "stats": "S:22 A:12",
+                    "worldPos": {
+                        "x": 28.5,
+                        "y": 72.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.10 Gear",
+                    "rarity": 2,
+                    "stats": "S:14 A:7",
+                    "worldPos": {
+                        "x": 29.5,
+                        "y": 77.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 11,
+            "items": [
+                {
+                    "name": "[Epic] Lv.11 Gear",
+                    "rarity": 2,
+                    "stats": "S:14 A:7",
+                    "worldPos": {
+                        "x": 54.5,
+                        "y": 81.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.11 Gear",
+                    "rarity": 3,
+                    "stats": "S:19 A:10",
+                    "worldPos": {
+                        "x": 54.5,
+                        "y": 88.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.11 Gear",
+                    "rarity": 2,
+                    "stats": "S:14 A:7 MS:+23%",
+                    "worldPos": {
+                        "x": 52.5,
+                        "y": 79.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.11 Gear",
+                    "rarity": 2,
+                    "stats": "S:23 A:12 MS:+23%",
+                    "worldPos": {
+                        "x": 55.5,
+                        "y": 76.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.11 Gear",
+                    "rarity": 2,
+                    "stats": "S:19 A:10",
+                    "worldPos": {
+                        "x": 54.5,
+                        "y": 85.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 12,
+            "items": [
+                {
+                    "name": "[Epic] Lv.12 Gear",
+                    "rarity": 2,
+                    "stats": "S:19 A:10 MS:+24% MS:-19%",
+                    "worldPos": {
+                        "x": 63.5,
+                        "y": 89.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.12 Gear",
+                    "rarity": 3,
+                    "stats": "S:19 A:10",
+                    "worldPos": {
+                        "x": 61.5,
+                        "y": 87.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.12 Gear",
+                    "rarity": 2,
+                    "stats": "S:14 A:8",
+                    "worldPos": {
+                        "x": 64.5,
+                        "y": 87.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.12 Gear",
+                    "rarity": 2,
+                    "stats": "S:14 A:8",
+                    "worldPos": {
+                        "x": 61.5,
+                        "y": 82.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 13,
+            "items": [
+                {
+                    "name": "[Unique] Lv.13 Gear",
+                    "rarity": 3,
+                    "stats": "S:20 A:11 MS:+25%",
+                    "worldPos": {
+                        "x": 71.5,
+                        "y": 82.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.13 Gear",
+                    "rarity": 3,
+                    "stats": "S:30 A:16 MS:-40%",
+                    "worldPos": {
+                        "x": 71.5,
+                        "y": 80.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.13 Gear",
+                    "rarity": 2,
+                    "stats": "S:25 A:13",
+                    "worldPos": {
+                        "x": 73.5,
+                        "y": 83.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.13 Gear",
+                    "rarity": 2,
+                    "stats": "S:15 A:8",
+                    "worldPos": {
+                        "x": 74.5,
+                        "y": 80.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 14,
+            "items": [
+                {
+                    "name": "[Epic] Lv.14 Gear",
+                    "rarity": 2,
+                    "stats": "S:15 A:8",
+                    "worldPos": {
+                        "x": 71.5,
+                        "y": 68.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.14 Gear",
+                    "rarity": 2,
+                    "stats": "S:26 A:14",
+                    "worldPos": {
+                        "x": 74.5,
+                        "y": 69.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.14 Gear",
+                    "rarity": 4,
+                    "stats": "S:31 A:16",
+                    "worldPos": {
+                        "x": 74.5,
+                        "y": 66.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 15,
+            "items": [
+                {
+                    "name": "[Epic] Lv.15 Gear",
+                    "rarity": 2,
+                    "stats": "S:21 A:11",
+                    "worldPos": {
+                        "x": 65.5,
+                        "y": 71.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.15 Gear",
+                    "rarity": 3,
+                    "stats": "S:32 A:17",
+                    "worldPos": {
+                        "x": 66.5,
+                        "y": 63.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.15 Gear",
+                    "rarity": 2,
+                    "stats": "S:26 A:14",
+                    "worldPos": {
+                        "x": 63.5,
+                        "y": 67.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.15 Gear",
+                    "rarity": 2,
+                    "stats": "S:21 A:11 Crit:+13% MS:+26%",
+                    "worldPos": {
+                        "x": 65.5,
+                        "y": 67.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 16,
+            "items": [
+                {
+                    "name": "[Legendary] Lv.16 Gear",
+                    "rarity": 4,
+                    "stats": "S:27 A:14 Crit:+14%",
+                    "worldPos": {
+                        "x": 53.5,
+                        "y": 64.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.16 Gear",
+                    "rarity": 4,
+                    "stats": "S:32 A:17 MS:+27%",
+                    "worldPos": {
+                        "x": 50.5,
+                        "y": 68.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.16 Gear",
+                    "rarity": 2,
+                    "stats": "S:27 A:14",
+                    "worldPos": {
+                        "x": 46.5,
+                        "y": 67.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.16 Gear",
+                    "rarity": 2,
+                    "stats": "S:27 A:14",
+                    "worldPos": {
+                        "x": 54.5,
+                        "y": 62.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.16 Gear",
+                    "rarity": 2,
+                    "stats": "S:16 A:9 MS:+27% MS:-22%",
+                    "worldPos": {
+                        "x": 52.5,
+                        "y": 62.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.16 Gear",
+                    "rarity": 3,
+                    "stats": "S:32 A:17 MS:-22%",
+                    "worldPos": {
+                        "x": 47.5,
+                        "y": 61.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 17,
+            "items": [
+                {
+                    "name": "[Unique] Lv.17 Gear",
+                    "rarity": 3,
+                    "stats": "S:33 A:18",
+                    "worldPos": {
+                        "x": 50.5,
+                        "y": 44.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.17 Gear",
+                    "rarity": 3,
+                    "stats": "S:22 A:12",
+                    "worldPos": {
+                        "x": 49.5,
+                        "y": 40.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.17 Gear",
+                    "rarity": 2,
+                    "stats": "S:28 A:15",
+                    "worldPos": {
+                        "x": 49.5,
+                        "y": 49.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.17 Gear",
+                    "rarity": 3,
+                    "stats": "S:22 A:12",
+                    "worldPos": {
+                        "x": 55.5,
+                        "y": 53.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 18,
+            "items": [
+                {
+                    "name": "[Unique] Lv.18 Gear",
+                    "rarity": 3,
+                    "stats": "S:34 A:18 Crit:+29% MS:-23%",
+                    "worldPos": {
+                        "x": 64.5,
+                        "y": 43.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.18 Gear",
+                    "rarity": 2,
+                    "stats": "S:17 A:9 MS:-23%",
+                    "worldPos": {
+                        "x": 65.5,
+                        "y": 46.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.18 Gear",
+                    "rarity": 2,
+                    "stats": "S:28 A:15 MS:+29%",
+                    "worldPos": {
+                        "x": 60.5,
+                        "y": 47.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.18 Gear",
+                    "rarity": 3,
+                    "stats": "S:23 A:12",
+                    "worldPos": {
+                        "x": 62.5,
+                        "y": 51.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.18 Gear",
+                    "rarity": 2,
+                    "stats": "S:17 A:9",
+                    "worldPos": {
+                        "x": 66.5,
+                        "y": 51.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.18 Gear",
+                    "rarity": 4,
+                    "stats": "S:40 A:21 Crit:+43% MS:+29% FireVuln:+171%",
+                    "worldPos": {
+                        "x": 61.5,
+                        "y": 44.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 19,
+            "items": [
+                {
+                    "name": "[Epic] Lv.19 Gear",
+                    "rarity": 2,
+                    "stats": "S:18 A:9 Crit:+15% MS:-23%",
+                    "worldPos": {
+                        "x": 72.5,
+                        "y": 46.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.19 Gear",
+                    "rarity": 3,
+                    "stats": "S:35 A:19",
+                    "worldPos": {
+                        "x": 73.5,
+                        "y": 50.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.19 Gear",
+                    "rarity": 3,
+                    "stats": "S:35 A:19",
+                    "worldPos": {
+                        "x": 71.5,
+                        "y": 41.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.19 Gear",
+                    "rarity": 2,
+                    "stats": "S:18 A:9",
+                    "worldPos": {
+                        "x": 74.5,
+                        "y": 45.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.19 Gear",
+                    "rarity": 2,
+                    "stats": "S:29 A:16",
+                    "worldPos": {
+                        "x": 75.5,
+                        "y": 40.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 20,
+            "items": [
+                {
+                    "name": "[Epic] Lv.20 Gear",
+                    "rarity": 2,
+                    "stats": "S:24 A:13",
+                    "worldPos": {
+                        "x": 87.5,
+                        "y": 55.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.20 Gear",
+                    "rarity": 4,
+                    "stats": "S:42 A:22",
+                    "worldPos": {
+                        "x": 81.5,
+                        "y": 51.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.20 Gear",
+                    "rarity": 3,
+                    "stats": "S:30 A:16 Crit:+15% MS:-24%",
+                    "worldPos": {
+                        "x": 88.5,
+                        "y": 44.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.20 Gear",
+                    "rarity": 2,
+                    "stats": "S:18 A:10",
+                    "worldPos": {
+                        "x": 85.5,
+                        "y": 46.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.20 Gear",
+                    "rarity": 2,
+                    "stats": "S:18 A:10",
+                    "worldPos": {
+                        "x": 92.5,
+                        "y": 47.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.20 Gear",
+                    "rarity": 2,
+                    "stats": "S:24 A:13",
+                    "worldPos": {
+                        "x": 80.5,
+                        "y": 54.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 21,
+            "items": [
+                {
+                    "name": "[Epic] Lv.21 Gear",
+                    "rarity": 2,
+                    "stats": "S:18 A:10",
+                    "worldPos": {
+                        "x": 88.5,
+                        "y": 62.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.21 Gear",
+                    "rarity": 3,
+                    "stats": "S:31 A:16 Crit:+15%",
+                    "worldPos": {
+                        "x": 86.5,
+                        "y": 63.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.21 Gear",
+                    "rarity": 3,
+                    "stats": "S:37 A:20",
+                    "worldPos": {
+                        "x": 84.5,
+                        "y": 60.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.21 Gear",
+                    "rarity": 2,
+                    "stats": "S:25 A:13",
+                    "worldPos": {
+                        "x": 91.5,
+                        "y": 64.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.21 Gear",
+                    "rarity": 3,
+                    "stats": "S:31 A:16",
+                    "worldPos": {
+                        "x": 89.5,
+                        "y": 60.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.21 Gear",
+                    "rarity": 3,
+                    "stats": "S:31 A:16",
+                    "worldPos": {
+                        "x": 83.5,
+                        "y": 62.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 22,
+            "items": [
+                {
+                    "name": "[Unique] Lv.22 Gear",
+                    "rarity": 3,
+                    "stats": "S:32 A:17 MS:+63% MS:-25%",
+                    "worldPos": {
+                        "x": 91.5,
+                        "y": 78.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.22 Gear",
+                    "rarity": 3,
+                    "stats": "S:25 A:13 MS:+32% MS:-25%",
+                    "worldPos": {
+                        "x": 81.5,
+                        "y": 75.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.22 Gear",
+                    "rarity": 2,
+                    "stats": "S:25 A:13",
+                    "worldPos": {
+                        "x": 91.5,
+                        "y": 75.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.22 Gear",
+                    "rarity": 3,
+                    "stats": "S:32 A:17",
+                    "worldPos": {
+                        "x": 86.5,
+                        "y": 80.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.22 Gear",
+                    "rarity": 3,
+                    "stats": "S:38 A:20",
+                    "worldPos": {
+                        "x": 84.5,
+                        "y": 77.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.22 Gear",
+                    "rarity": 2,
+                    "stats": "S:32 A:17 Crit:+16%",
+                    "worldPos": {
+                        "x": 89.5,
+                        "y": 72.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.22 Gear",
+                    "rarity": 3,
+                    "stats": "S:38 A:20 Crit:+32% FireVuln:+126%",
+                    "worldPos": {
+                        "x": 82.5,
+                        "y": 81.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 23,
+            "items": [
+                {
+                    "name": "[Unique] Lv.23 Gear",
+                    "rarity": 3,
+                    "stats": "S:26 A:14",
+                    "worldPos": {
+                        "x": 74.5,
+                        "y": 96.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.23 Gear",
+                    "rarity": 2,
+                    "stats": "S:26 A:14",
+                    "worldPos": {
+                        "x": 71.5,
+                        "y": 89.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.23 Gear",
+                    "rarity": 3,
+                    "stats": "S:26 A:14 Crit:+16%",
+                    "worldPos": {
+                        "x": 74.5,
+                        "y": 93.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.23 Gear",
+                    "rarity": 2,
+                    "stats": "S:26 A:14 Crit:+16%",
+                    "worldPos": {
+                        "x": 72.5,
+                        "y": 96.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.23 Gear",
+                    "rarity": 2,
+                    "stats": "S:32 A:17",
+                    "worldPos": {
+                        "x": 74.5,
+                        "y": 91.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.23 Gear",
+                    "rarity": 3,
+                    "stats": "S:32 A:17",
+                    "worldPos": {
+                        "x": 72.5,
+                        "y": 94.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 24,
+            "items": [
+                {
+                    "name": "[Unique] Lv.24 Gear",
+                    "rarity": 3,
+                    "stats": "S:33 A:18",
+                    "worldPos": {
+                        "x": 34.5,
+                        "y": 52.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.24 Gear",
+                    "rarity": 3,
+                    "stats": "S:33 A:18 Crit:+17% FireVuln:+66%",
+                    "worldPos": {
+                        "x": 28.5,
+                        "y": 52.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.24 Gear",
+                    "rarity": 2,
+                    "stats": "S:26 A:14 Crit:+17%",
+                    "worldPos": {
+                        "x": 35.5,
+                        "y": 58.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.24 Gear",
+                    "rarity": 2,
+                    "stats": "S:33 A:18",
+                    "worldPos": {
+                        "x": 33.5,
+                        "y": 56.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.24 Gear",
+                    "rarity": 2,
+                    "stats": "S:33 A:18",
+                    "worldPos": {
+                        "x": 37.5,
+                        "y": 54.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.24 Gear",
+                    "rarity": 4,
+                    "stats": "S:33 A:18 Crit:+17% MS:+33% FireVuln:+66%",
+                    "worldPos": {
+                        "x": 32.5,
+                        "y": 58.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 25,
+            "items": [
+                {
+                    "name": "[Legendary] Lv.25 Gear",
+                    "rarity": 4,
+                    "stats": "S:34 A:18 MS:+34%",
+                    "worldPos": {
+                        "x": 36.5,
+                        "y": 34.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.25 Gear",
+                    "rarity": 2,
+                    "stats": "S:20 A:11 Crit:+17%",
+                    "worldPos": {
+                        "x": 32.5,
+                        "y": 27.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.25 Gear",
+                    "rarity": 4,
+                    "stats": "S:34 A:18 Crit:+34% FireVuln:+68%",
+                    "worldPos": {
+                        "x": 38.5,
+                        "y": 27.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.25 Gear",
+                    "rarity": 3,
+                    "stats": "S:34 A:18",
+                    "worldPos": {
+                        "x": 38.5,
+                        "y": 34.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.25 Gear",
+                    "rarity": 4,
+                    "stats": "S:40 A:22",
+                    "worldPos": {
+                        "x": 29.5,
+                        "y": 37.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.25 Gear",
+                    "rarity": 3,
+                    "stats": "S:34 A:18",
+                    "worldPos": {
+                        "x": 34.5,
+                        "y": 27.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.25 Gear",
+                    "rarity": 3,
+                    "stats": "S:27 A:14 Crit:+34% MS:-27% FireVuln:+68%",
+                    "worldPos": {
+                        "x": 33.5,
+                        "y": 35.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 26,
+            "items": [
+                {
+                    "name": "[Epic] Lv.26 Gear",
+                    "rarity": 2,
+                    "stats": "S:34 A:18 Crit:+17%",
+                    "worldPos": {
+                        "x": 35.5,
+                        "y": 18.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.26 Gear",
+                    "rarity": 3,
+                    "stats": "S:34 A:18 MS:+35% MS:-28% FireVuln:+69%",
+                    "worldPos": {
+                        "x": 30.5,
+                        "y": 22.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.26 Gear",
+                    "rarity": 2,
+                    "stats": "S:28 A:15",
+                    "worldPos": {
+                        "x": 36.5,
+                        "y": 16.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.26 Gear",
+                    "rarity": 2,
+                    "stats": "S:21 A:11",
+                    "worldPos": {
+                        "x": 32.5,
+                        "y": 20.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.26 Gear",
+                    "rarity": 4,
+                    "stats": "S:41 A:22",
+                    "worldPos": {
+                        "x": 27.5,
+                        "y": 19.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.26 Gear",
+                    "rarity": 2,
+                    "stats": "S:34 A:18",
+                    "worldPos": {
+                        "x": 34.5,
+                        "y": 15.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.26 Gear",
+                    "rarity": 3,
+                    "stats": "S:28 A:15",
+                    "worldPos": {
+                        "x": 33.5,
+                        "y": 12.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 27,
+            "items": [
+                {
+                    "name": "[Unique] Lv.27 Gear",
+                    "rarity": 3,
+                    "stats": "S:35 A:19",
+                    "worldPos": {
+                        "x": 45.5,
+                        "y": 25.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.27 Gear",
+                    "rarity": 3,
+                    "stats": "S:28 A:15",
+                    "worldPos": {
+                        "x": 51.5,
+                        "y": 27.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.27 Gear",
+                    "rarity": 3,
+                    "stats": "S:35 A:19 MS:-56%",
+                    "worldPos": {
+                        "x": 55.5,
+                        "y": 30.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.27 Gear",
+                    "rarity": 4,
+                    "stats": "S:35 A:19 MS:-56%",
+                    "worldPos": {
+                        "x": 53.5,
+                        "y": 30.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.27 Gear",
+                    "rarity": 2,
+                    "stats": "S:28 A:15",
+                    "worldPos": {
+                        "x": 50.5,
+                        "y": 31.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.27 Gear",
+                    "rarity": 3,
+                    "stats": "S:35 A:19 MS:+35% FireVuln:+71%",
+                    "worldPos": {
+                        "x": 46.5,
+                        "y": 29.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.27 Gear",
+                    "rarity": 3,
+                    "stats": "S:35 A:19 MS:+71%",
+                    "worldPos": {
+                        "x": 50.5,
+                        "y": 25.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 28,
+            "items": [
+                {
+                    "name": "[Legendary] Lv.28 Gear",
+                    "rarity": 4,
+                    "stats": "S:50 A:27",
+                    "worldPos": {
+                        "x": 60.5,
+                        "y": 36.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.28 Gear",
+                    "rarity": 3,
+                    "stats": "S:36 A:19",
+                    "worldPos": {
+                        "x": 64.5,
+                        "y": 37.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.28 Gear",
+                    "rarity": 4,
+                    "stats": "S:36 A:19 Crit:+18% MS:-29% FireVuln:+72%",
+                    "worldPos": {
+                        "x": 60.5,
+                        "y": 30.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.28 Gear",
+                    "rarity": 3,
+                    "stats": "S:43 A:23",
+                    "worldPos": {
+                        "x": 66.5,
+                        "y": 37.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.28 Gear",
+                    "rarity": 4,
+                    "stats": "S:36 A:19 MS:+72% MS:-58%",
+                    "worldPos": {
+                        "x": 65.5,
+                        "y": 35.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.28 Gear",
+                    "rarity": 4,
+                    "stats": "S:36 A:19",
+                    "worldPos": {
+                        "x": 61.5,
+                        "y": 38.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.28 Gear",
+                    "rarity": 3,
+                    "stats": "S:29 A:15 Crit:+18% MS:+36%",
+                    "worldPos": {
+                        "x": 61.5,
+                        "y": 33.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 29,
+            "items": [
+                {
+                    "name": "[Unique] Lv.29 Gear",
+                    "rarity": 3,
+                    "stats": "S:37 A:20",
+                    "worldPos": {
+                        "x": 71.5,
+                        "y": 31.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.29 Gear",
+                    "rarity": 4,
+                    "stats": "S:37 A:20 Crit:+55%",
+                    "worldPos": {
+                        "x": 73.5,
+                        "y": 33.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.29 Gear",
+                    "rarity": 2,
+                    "stats": "S:22 A:12 Crit:+18%",
+                    "worldPos": {
+                        "x": 75.5,
+                        "y": 34.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.29 Gear",
+                    "rarity": 4,
+                    "stats": "S:44 A:24 Crit:+37% FireVuln:+74%",
+                    "worldPos": {
+                        "x": 74.5,
+                        "y": 30.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.29 Gear",
+                    "rarity": 3,
+                    "stats": "S:44 A:24 Crit:+18%",
+                    "worldPos": {
+                        "x": 73.5,
+                        "y": 28.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.29 Gear",
+                    "rarity": 4,
+                    "stats": "S:44 A:24 MS:+110% MS:-29%",
+                    "worldPos": {
+                        "x": 71.5,
+                        "y": 29.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.29 Gear",
+                    "rarity": 3,
+                    "stats": "S:29 A:16 Crit:+18% MS:-29%",
+                    "worldPos": {
+                        "x": 71.5,
+                        "y": 33.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.29 Gear",
+                    "rarity": 2,
+                    "stats": "S:22 A:12",
+                    "worldPos": {
+                        "x": 75.5,
+                        "y": 32.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 30,
+            "items": [
+                {
+                    "name": "[Unique] Lv.30 Gear",
+                    "rarity": 3,
+                    "stats": "S:30 A:16",
+                    "worldPos": {
+                        "x": 84.5,
+                        "y": 31.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.30 Gear",
+                    "rarity": 3,
+                    "stats": "S:45 A:24",
+                    "worldPos": {
+                        "x": 91.5,
+                        "y": 34.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.30 Gear",
+                    "rarity": 3,
+                    "stats": "S:30 A:16 FireVuln:+75%",
+                    "worldPos": {
+                        "x": 86.5,
+                        "y": 37.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.30 Gear",
+                    "rarity": 3,
+                    "stats": "S:38 A:20 MS:+38%",
+                    "worldPos": {
+                        "x": 84.5,
+                        "y": 35.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.30 Gear",
+                    "rarity": 4,
+                    "stats": "S:38 A:20 MS:+38% MS:-30% FireVuln:+75%",
+                    "worldPos": {
+                        "x": 89.5,
+                        "y": 37.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.30 Gear",
+                    "rarity": 3,
+                    "stats": "S:45 A:24 Crit:+19%",
+                    "worldPos": {
+                        "x": 84.5,
+                        "y": 33.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.30 Gear",
+                    "rarity": 3,
+                    "stats": "S:45 A:24",
+                    "worldPos": {
+                        "x": 91.5,
+                        "y": 32.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.30 Gear",
+                    "rarity": 3,
+                    "stats": "S:45 A:24",
+                    "worldPos": {
+                        "x": 86.5,
+                        "y": 30.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 31,
+            "items": [
+                {
+                    "name": "[Unique] Lv.31 Gear",
+                    "rarity": 3,
+                    "stats": "S:46 A:24",
+                    "worldPos": {
+                        "x": 84.5,
+                        "y": 18.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.31 Gear",
+                    "rarity": 2,
+                    "stats": "S:31 A:16 MS:-31%",
+                    "worldPos": {
+                        "x": 89.5,
+                        "y": 14.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.31 Gear",
+                    "rarity": 2,
+                    "stats": "S:31 A:16",
+                    "worldPos": {
+                        "x": 82.5,
+                        "y": 22.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.31 Gear",
+                    "rarity": 3,
+                    "stats": "S:46 A:24 MS:+38% MS:-31%",
+                    "worldPos": {
+                        "x": 92.5,
+                        "y": 17.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.31 Gear",
+                    "rarity": 4,
+                    "stats": "S:54 A:29 MS:+77% MS:-31% FireVuln:+77%",
+                    "worldPos": {
+                        "x": 88.5,
+                        "y": 16.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.31 Gear",
+                    "rarity": 4,
+                    "stats": "S:38 A:20 Crit:+19% MS:+38% MS:-61%",
+                    "worldPos": {
+                        "x": 85.5,
+                        "y": 15.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.31 Gear",
+                    "rarity": 4,
+                    "stats": "S:46 A:24 MS:+38% MS:-31%",
+                    "worldPos": {
+                        "x": 91.5,
+                        "y": 23.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.31 Gear",
+                    "rarity": 3,
+                    "stats": "S:46 A:24 Crit:+19% MS:-31%",
+                    "worldPos": {
+                        "x": 91.5,
+                        "y": 20.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.31 Gear",
+                    "rarity": 3,
+                    "stats": "S:38 A:20",
+                    "worldPos": {
+                        "x": 88.5,
+                        "y": 20.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 32,
+            "items": [
+                {
+                    "name": "[Unique] Lv.32 Gear",
+                    "rarity": 3,
+                    "stats": "S:31 A:17 Crit:+20% MS:-31%",
+                    "worldPos": {
+                        "x": 73.5,
+                        "y": 9.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.32 Gear",
+                    "rarity": 4,
+                    "stats": "S:47 A:25 MS:+78%",
+                    "worldPos": {
+                        "x": 75.5,
+                        "y": 12.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.32 Gear",
+                    "rarity": 3,
+                    "stats": "S:39 A:21",
+                    "worldPos": {
+                        "x": 75.5,
+                        "y": 16.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.32 Gear",
+                    "rarity": 3,
+                    "stats": "S:39 A:21",
+                    "worldPos": {
+                        "x": 71.5,
+                        "y": 13.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.32 Gear",
+                    "rarity": 2,
+                    "stats": "S:31 A:17",
+                    "worldPos": {
+                        "x": 72.5,
+                        "y": 15.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.32 Gear",
+                    "rarity": 3,
+                    "stats": "S:47 A:25",
+                    "worldPos": {
+                        "x": 71.5,
+                        "y": 9.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.32 Gear",
+                    "rarity": 4,
+                    "stats": "S:55 A:29",
+                    "worldPos": {
+                        "x": 75.5,
+                        "y": 19.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.32 Gear",
+                    "rarity": 2,
+                    "stats": "S:23 A:12",
+                    "worldPos": {
+                        "x": 74.5,
+                        "y": 14.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 33,
+            "items": [
+                {
+                    "name": "[Epic] Lv.33 Gear",
+                    "rarity": 2,
+                    "stats": "S:24 A:13",
+                    "worldPos": {
+                        "x": 66.5,
+                        "y": 13.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.33 Gear",
+                    "rarity": 3,
+                    "stats": "S:48 A:25",
+                    "worldPos": {
+                        "x": 64.5,
+                        "y": 11.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.33 Gear",
+                    "rarity": 3,
+                    "stats": "S:40 A:21",
+                    "worldPos": {
+                        "x": 66.5,
+                        "y": 11.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.33 Gear",
+                    "rarity": 3,
+                    "stats": "S:48 A:25",
+                    "worldPos": {
+                        "x": 60.5,
+                        "y": 12.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.33 Gear",
+                    "rarity": 3,
+                    "stats": "S:48 A:25 MS:+40% FireVuln:+80%",
+                    "worldPos": {
+                        "x": 65.5,
+                        "y": 16.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.33 Gear",
+                    "rarity": 4,
+                    "stats": "S:48 A:25",
+                    "worldPos": {
+                        "x": 63.5,
+                        "y": 15.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.33 Gear",
+                    "rarity": 3,
+                    "stats": "S:48 A:25",
+                    "worldPos": {
+                        "x": 63.5,
+                        "y": 9.5
+                    }
+                }
+            ]
+        }
+    ]
+}

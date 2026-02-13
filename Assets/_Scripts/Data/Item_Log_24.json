@@ -1,0 +1,136 @@
+{
+    "seed": -2045550868,
+    "totalItemBudget": 10,
+    "noiseScale": 0.6000000238418579,
+    "noiseThreshold": 0.44999998807907107,
+    "globalDifficulty": 1.399999976158142,
+    "penaltyIntensity": 2.5,
+    "tradeOffSpawnChance": 30.0,
+    "rooms": [
+        {
+            "roomLevel": 2,
+            "items": [
+                {
+                    "name": "[Normal] Lv.2 Gear",
+                    "rarity": 0,
+                    "stats": "S:2 A:1",
+                    "worldPos": {
+                        "x": 86.5,
+                        "y": 61.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 2,
+            "items": [
+                {
+                    "name": "[Normal] Lv.2 Gear",
+                    "rarity": 0,
+                    "stats": "S:5 A:2",
+                    "worldPos": {
+                        "x": 56.5,
+                        "y": 81.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 3,
+            "items": [
+                {
+                    "name": "[Normal] Lv.3 Gear",
+                    "rarity": 0,
+                    "stats": "S:2 A:1",
+                    "worldPos": {
+                        "x": 46.5,
+                        "y": 61.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 3,
+            "items": [
+                {
+                    "name": "[Normal] Lv.3 Gear",
+                    "rarity": 0,
+                    "stats": "S:7 A:4",
+                    "worldPos": {
+                        "x": 86.5,
+                        "y": 8.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 4,
+            "items": [
+                {
+                    "name": "[Rare] Lv.4 Gear",
+                    "rarity": 1,
+                    "stats": "S:8 A:4",
+                    "worldPos": {
+                        "x": 29.5,
+                        "y": 63.5
+                    }
+                },
+                {
+                    "name": "[Epic] Lv.4 Gear",
+                    "rarity": 2,
+                    "stats": "S:8 A:4",
+                    "worldPos": {
+                        "x": 33.5,
+                        "y": 67.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 4,
+            "items": [
+                {
+                    "name": "[Epic] Lv.4 Gear",
+                    "rarity": 2,
+                    "stats": "S:8 A:4",
+                    "worldPos": {
+                        "x": 93.5,
+                        "y": 12.5
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 23,
+            "items": [
+                {
+                    "name": "[Legendary] Lv.23 Gear",
+                    "rarity": 4,
+                    "stats": "S:23 A:12",
+                    "worldPos": {
+                        "x": 8.5,
+                        "y": 21.5
+                    }
+                },
+                {
+                    "name": "[Unique] Lv.23 Gear",
+                    "rarity": 3,
+                    "stats": "S:23 A:12",
+                    "worldPos": {
+                        "x": 8.5,
+                        "y": 22.5
+                    }
+                },
+                {
+                    "name": "[Legendary] Lv.23 Gear",
+                    "rarity": 4,
+                    "stats": "S:27 A:14 MS:+54% MS:-43%",
+                    "worldPos": {
+                        "x": 9.5,
+                        "y": 21.5
+                    }
+                }
+            ]
+        }
+    ]
+}

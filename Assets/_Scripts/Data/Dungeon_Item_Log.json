@@ -1,0 +1,1203 @@
+{
+    "seed": -1321098887,
+    "rooms": [
+        {
+            "roomLevel": 2,
+            "items": [
+                {
+                    "itemName": "Rare Gear (Lv.2)",
+                    "rarity": 1,
+                    "attack": 3,
+                    "strength": 6,
+                    "dexterity": 4,
+                    "worldPosition": {
+                        "x": 38.0,
+                        "y": 69.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.2)",
+                    "rarity": 1,
+                    "attack": 1,
+                    "strength": 5,
+                    "dexterity": 6,
+                    "worldPosition": {
+                        "x": 40.0,
+                        "y": 70.0
+                    }
+                },
+                {
+                    "itemName": "Normal Gear (Lv.2)",
+                    "rarity": 0,
+                    "attack": 2,
+                    "strength": 6,
+                    "dexterity": 5,
+                    "worldPosition": {
+                        "x": 37.0,
+                        "y": 72.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 2,
+            "items": [
+                {
+                    "itemName": "Normal Gear (Lv.2)",
+                    "rarity": 0,
+                    "attack": 1,
+                    "strength": 6,
+                    "dexterity": 5,
+                    "worldPosition": {
+                        "x": 29.0,
+                        "y": 93.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.2)",
+                    "rarity": 1,
+                    "attack": 2,
+                    "strength": 4,
+                    "dexterity": 7,
+                    "worldPosition": {
+                        "x": 25.0,
+                        "y": 87.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 3,
+            "items": [
+                {
+                    "itemName": "Epic Gear (Lv.3)",
+                    "rarity": 2,
+                    "attack": 5,
+                    "strength": 8,
+                    "dexterity": 8,
+                    "worldPosition": {
+                        "x": 40.0,
+                        "y": 57.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 3,
+            "items": [
+                {
+                    "itemName": "Rare Gear (Lv.3)",
+                    "rarity": 1,
+                    "attack": 4,
+                    "strength": 9,
+                    "dexterity": 8,
+                    "worldPosition": {
+                        "x": 9.0,
+                        "y": 91.0
+                    }
+                },
+                {
+                    "itemName": "Legendary Gear (Lv.3)",
+                    "rarity": 4,
+                    "attack": 8,
+                    "strength": 18,
+                    "dexterity": 15,
+                    "worldPosition": {
+                        "x": 7.0,
+                        "y": 91.0
+                    }
+                },
+                {
+                    "itemName": "Epic Gear (Lv.3)",
+                    "rarity": 2,
+                    "attack": 4,
+                    "strength": 10,
+                    "dexterity": 7,
+                    "worldPosition": {
+                        "x": 3.0,
+                        "y": 86.0
+                    }
+                },
+                {
+                    "itemName": "Normal Gear (Lv.3)",
+                    "rarity": 0,
+                    "attack": 2,
+                    "strength": 8,
+                    "dexterity": 8,
+                    "worldPosition": {
+                        "x": 4.0,
+                        "y": 81.0
+                    }
+                },
+                {
+                    "itemName": "Normal Gear (Lv.3)",
+                    "rarity": 0,
+                    "attack": 4,
+                    "strength": 6,
+                    "dexterity": 8,
+                    "worldPosition": {
+                        "x": 6.0,
+                        "y": 83.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 4,
+            "items": [
+                {
+                    "itemName": "Epic Gear (Lv.4)",
+                    "rarity": 2,
+                    "attack": 5,
+                    "strength": 11,
+                    "dexterity": 12,
+                    "worldPosition": {
+                        "x": 49.0,
+                        "y": 85.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.4)",
+                    "rarity": 3,
+                    "attack": 7,
+                    "strength": 14,
+                    "dexterity": 15,
+                    "worldPosition": {
+                        "x": 45.0,
+                        "y": 90.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.4)",
+                    "rarity": 1,
+                    "attack": 3,
+                    "strength": 9,
+                    "dexterity": 9,
+                    "worldPosition": {
+                        "x": 48.0,
+                        "y": 94.0
+                    }
+                },
+                {
+                    "itemName": "Epic Gear (Lv.4)",
+                    "rarity": 2,
+                    "attack": 6,
+                    "strength": 10,
+                    "dexterity": 13,
+                    "worldPosition": {
+                        "x": 46.0,
+                        "y": 85.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 4,
+            "items": [
+                {
+                    "itemName": "Rare Gear (Lv.4)",
+                    "rarity": 1,
+                    "attack": 4,
+                    "strength": 7,
+                    "dexterity": 8,
+                    "worldPosition": {
+                        "x": 16.0,
+                        "y": 53.0
+                    }
+                },
+                {
+                    "itemName": "Normal Gear (Lv.4)",
+                    "rarity": 0,
+                    "attack": 3,
+                    "strength": 9,
+                    "dexterity": 6,
+                    "worldPosition": {
+                        "x": 18.0,
+                        "y": 53.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.4)",
+                    "rarity": 1,
+                    "attack": 3,
+                    "strength": 9,
+                    "dexterity": 10,
+                    "worldPosition": {
+                        "x": 19.0,
+                        "y": 51.0
+                    }
+                },
+                {
+                    "itemName": "Normal Gear (Lv.4)",
+                    "rarity": 0,
+                    "attack": 4,
+                    "strength": 7,
+                    "dexterity": 7,
+                    "worldPosition": {
+                        "x": 23.0,
+                        "y": 58.0
+                    }
+                },
+                {
+                    "itemName": "Normal Gear (Lv.4)",
+                    "rarity": 0,
+                    "attack": 3,
+                    "strength": 7,
+                    "dexterity": 8,
+                    "worldPosition": {
+                        "x": 25.0,
+                        "y": 58.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 5,
+            "items": [
+                {
+                    "itemName": "Rare Gear (Lv.5)",
+                    "rarity": 1,
+                    "attack": 3,
+                    "strength": 10,
+                    "dexterity": 9,
+                    "worldPosition": {
+                        "x": 69.0,
+                        "y": 84.0
+                    }
+                },
+                {
+                    "itemName": "Normal Gear (Lv.5)",
+                    "rarity": 0,
+                    "attack": 2,
+                    "strength": 8,
+                    "dexterity": 9,
+                    "worldPosition": {
+                        "x": 72.0,
+                        "y": 91.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.5)",
+                    "rarity": 1,
+                    "attack": 4,
+                    "strength": 9,
+                    "dexterity": 11,
+                    "worldPosition": {
+                        "x": 66.0,
+                        "y": 92.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.5)",
+                    "rarity": 3,
+                    "attack": 8,
+                    "strength": 16,
+                    "dexterity": 16,
+                    "worldPosition": {
+                        "x": 68.0,
+                        "y": 88.0
+                    }
+                },
+                {
+                    "itemName": "Normal Gear (Lv.5)",
+                    "rarity": 0,
+                    "attack": 4,
+                    "strength": 10,
+                    "dexterity": 9,
+                    "worldPosition": {
+                        "x": 71.0,
+                        "y": 93.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 5,
+            "items": [
+                {
+                    "itemName": "Rare Gear (Lv.5)",
+                    "rarity": 1,
+                    "attack": 3,
+                    "strength": 10,
+                    "dexterity": 10,
+                    "worldPosition": {
+                        "x": 4.0,
+                        "y": 47.0
+                    }
+                },
+                {
+                    "itemName": "Normal Gear (Lv.5)",
+                    "rarity": 0,
+                    "attack": 2,
+                    "strength": 9,
+                    "dexterity": 10,
+                    "worldPosition": {
+                        "x": 5.0,
+                        "y": 44.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 6,
+            "items": [
+                {
+                    "itemName": "Epic Gear (Lv.6)",
+                    "rarity": 2,
+                    "attack": 5,
+                    "strength": 17,
+                    "dexterity": 16,
+                    "worldPosition": {
+                        "x": 8.0,
+                        "y": 12.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 6,
+            "items": [
+                {
+                    "itemName": "Rare Gear (Lv.6)",
+                    "rarity": 1,
+                    "attack": 5,
+                    "strength": 12,
+                    "dexterity": 12,
+                    "worldPosition": {
+                        "x": 90.0,
+                        "y": 84.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.6)",
+                    "rarity": 1,
+                    "attack": 5,
+                    "strength": 12,
+                    "dexterity": 13,
+                    "worldPosition": {
+                        "x": 84.0,
+                        "y": 91.0
+                    }
+                },
+                {
+                    "itemName": "Epic Gear (Lv.6)",
+                    "rarity": 2,
+                    "attack": 5,
+                    "strength": 17,
+                    "dexterity": 16,
+                    "worldPosition": {
+                        "x": 81.0,
+                        "y": 93.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 7,
+            "items": [
+                {
+                    "itemName": "Unique Gear (Lv.7)",
+                    "rarity": 3,
+                    "attack": 11,
+                    "strength": 22,
+                    "dexterity": 25,
+                    "worldPosition": {
+                        "x": 9.0,
+                        "y": 22.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.7)",
+                    "rarity": 3,
+                    "attack": 11,
+                    "strength": 25,
+                    "dexterity": 23,
+                    "worldPosition": {
+                        "x": 8.0,
+                        "y": 24.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 8,
+            "items": [
+                {
+                    "itemName": "Rare Gear (Lv.8)",
+                    "rarity": 1,
+                    "attack": 5,
+                    "strength": 14,
+                    "dexterity": 15,
+                    "worldPosition": {
+                        "x": 22.0,
+                        "y": 25.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.8)",
+                    "rarity": 3,
+                    "attack": 11,
+                    "strength": 27,
+                    "dexterity": 25,
+                    "worldPosition": {
+                        "x": 21.0,
+                        "y": 26.0
+                    }
+                },
+                {
+                    "itemName": "Epic Gear (Lv.8)",
+                    "rarity": 2,
+                    "attack": 9,
+                    "strength": 18,
+                    "dexterity": 18,
+                    "worldPosition": {
+                        "x": 25.0,
+                        "y": 24.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.8)",
+                    "rarity": 1,
+                    "attack": 7,
+                    "strength": 15,
+                    "dexterity": 16,
+                    "worldPosition": {
+                        "x": 21.0,
+                        "y": 28.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.8)",
+                    "rarity": 1,
+                    "attack": 6,
+                    "strength": 16,
+                    "dexterity": 15,
+                    "worldPosition": {
+                        "x": 24.0,
+                        "y": 24.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 9,
+            "items": [
+                {
+                    "itemName": "Rare Gear (Lv.9)",
+                    "rarity": 1,
+                    "attack": 7,
+                    "strength": 16,
+                    "dexterity": 15,
+                    "worldPosition": {
+                        "x": 19.0,
+                        "y": 12.0
+                    }
+                },
+                {
+                    "itemName": "Normal Gear (Lv.9)",
+                    "rarity": 0,
+                    "attack": 6,
+                    "strength": 12,
+                    "dexterity": 14,
+                    "worldPosition": {
+                        "x": 23.0,
+                        "y": 14.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.9)",
+                    "rarity": 3,
+                    "attack": 11,
+                    "strength": 31,
+                    "dexterity": 30,
+                    "worldPosition": {
+                        "x": 19.0,
+                        "y": 14.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.9)",
+                    "rarity": 3,
+                    "attack": 12,
+                    "strength": 31,
+                    "dexterity": 31,
+                    "worldPosition": {
+                        "x": 17.0,
+                        "y": 14.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 10,
+            "items": [
+                {
+                    "itemName": "Unique Gear (Lv.10)",
+                    "rarity": 3,
+                    "attack": 14,
+                    "strength": 33,
+                    "dexterity": 31,
+                    "worldPosition": {
+                        "x": 55.0,
+                        "y": 5.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.10)",
+                    "rarity": 1,
+                    "attack": 8,
+                    "strength": 19,
+                    "dexterity": 17,
+                    "worldPosition": {
+                        "x": 61.0,
+                        "y": 5.0
+                    }
+                },
+                {
+                    "itemName": "Epic Gear (Lv.10)",
+                    "rarity": 2,
+                    "attack": 10,
+                    "strength": 25,
+                    "dexterity": 23,
+                    "worldPosition": {
+                        "x": 56.0,
+                        "y": 5.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.10)",
+                    "rarity": 1,
+                    "attack": 8,
+                    "strength": 19,
+                    "dexterity": 19,
+                    "worldPosition": {
+                        "x": 56.0,
+                        "y": 4.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.10)",
+                    "rarity": 3,
+                    "attack": 14,
+                    "strength": 32,
+                    "dexterity": 34,
+                    "worldPosition": {
+                        "x": 61.0,
+                        "y": 4.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.10)",
+                    "rarity": 3,
+                    "attack": 12,
+                    "strength": 32,
+                    "dexterity": 34,
+                    "worldPosition": {
+                        "x": 61.0,
+                        "y": 6.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 11,
+            "items": [
+                {
+                    "itemName": "Unique Gear (Lv.11)",
+                    "rarity": 3,
+                    "attack": 16,
+                    "strength": 34,
+                    "dexterity": 35,
+                    "worldPosition": {
+                        "x": 53.0,
+                        "y": 27.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.11)",
+                    "rarity": 3,
+                    "attack": 14,
+                    "strength": 35,
+                    "dexterity": 35,
+                    "worldPosition": {
+                        "x": 59.0,
+                        "y": 28.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.11)",
+                    "rarity": 1,
+                    "attack": 9,
+                    "strength": 18,
+                    "dexterity": 21,
+                    "worldPosition": {
+                        "x": 57.0,
+                        "y": 29.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.11)",
+                    "rarity": 3,
+                    "attack": 16,
+                    "strength": 34,
+                    "dexterity": 35,
+                    "worldPosition": {
+                        "x": 55.0,
+                        "y": 28.0
+                    }
+                },
+                {
+                    "itemName": "Legendary Gear (Lv.11)",
+                    "rarity": 4,
+                    "attack": 24,
+                    "strength": 57,
+                    "dexterity": 57,
+                    "worldPosition": {
+                        "x": 55.0,
+                        "y": 29.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.11)",
+                    "rarity": 1,
+                    "attack": 8,
+                    "strength": 20,
+                    "dexterity": 20,
+                    "worldPosition": {
+                        "x": 58.0,
+                        "y": 24.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 12,
+            "items": [
+                {
+                    "itemName": "Epic Gear (Lv.12)",
+                    "rarity": 2,
+                    "attack": 13,
+                    "strength": 27,
+                    "dexterity": 28,
+                    "worldPosition": {
+                        "x": 53.0,
+                        "y": 47.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.12)",
+                    "rarity": 3,
+                    "attack": 17,
+                    "strength": 39,
+                    "dexterity": 39,
+                    "worldPosition": {
+                        "x": 60.0,
+                        "y": 42.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.12)",
+                    "rarity": 1,
+                    "attack": 9,
+                    "strength": 22,
+                    "dexterity": 21,
+                    "worldPosition": {
+                        "x": 51.0,
+                        "y": 42.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.12)",
+                    "rarity": 1,
+                    "attack": 9,
+                    "strength": 23,
+                    "dexterity": 22,
+                    "worldPosition": {
+                        "x": 58.0,
+                        "y": 44.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.12)",
+                    "rarity": 1,
+                    "attack": 10,
+                    "strength": 23,
+                    "dexterity": 22,
+                    "worldPosition": {
+                        "x": 58.0,
+                        "y": 41.0
+                    }
+                },
+                {
+                    "itemName": "Epic Gear (Lv.12)",
+                    "rarity": 2,
+                    "attack": 13,
+                    "strength": 30,
+                    "dexterity": 28,
+                    "worldPosition": {
+                        "x": 60.0,
+                        "y": 47.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 13,
+            "items": [
+                {
+                    "itemName": "Epic Gear (Lv.13)",
+                    "rarity": 2,
+                    "attack": 14,
+                    "strength": 29,
+                    "dexterity": 31,
+                    "worldPosition": {
+                        "x": 74.0,
+                        "y": 65.0
+                    }
+                },
+                {
+                    "itemName": "Legendary Gear (Lv.13)",
+                    "rarity": 4,
+                    "attack": 26,
+                    "strength": 64,
+                    "dexterity": 63,
+                    "worldPosition": {
+                        "x": 73.0,
+                        "y": 64.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.13)",
+                    "rarity": 3,
+                    "attack": 16,
+                    "strength": 43,
+                    "dexterity": 41,
+                    "worldPosition": {
+                        "x": 73.0,
+                        "y": 60.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.13)",
+                    "rarity": 3,
+                    "attack": 16,
+                    "strength": 41,
+                    "dexterity": 43,
+                    "worldPosition": {
+                        "x": 75.0,
+                        "y": 61.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 14,
+            "items": [
+                {
+                    "itemName": "Rare Gear (Lv.14)",
+                    "rarity": 1,
+                    "attack": 11,
+                    "strength": 24,
+                    "dexterity": 25,
+                    "worldPosition": {
+                        "x": 83.0,
+                        "y": 68.0
+                    }
+                },
+                {
+                    "itemName": "Legendary Gear (Lv.14)",
+                    "rarity": 4,
+                    "attack": 29,
+                    "strength": 71,
+                    "dexterity": 69,
+                    "worldPosition": {
+                        "x": 86.0,
+                        "y": 63.0
+                    }
+                },
+                {
+                    "itemName": "Epic Gear (Lv.14)",
+                    "rarity": 2,
+                    "attack": 14,
+                    "strength": 32,
+                    "dexterity": 34,
+                    "worldPosition": {
+                        "x": 82.0,
+                        "y": 62.0
+                    }
+                },
+                {
+                    "itemName": "Legendary Gear (Lv.14)",
+                    "rarity": 4,
+                    "attack": 30,
+                    "strength": 68,
+                    "dexterity": 71,
+                    "worldPosition": {
+                        "x": 85.0,
+                        "y": 66.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 15,
+            "items": [
+                {
+                    "itemName": "Unique Gear (Lv.15)",
+                    "rarity": 3,
+                    "attack": 20,
+                    "strength": 49,
+                    "dexterity": 46,
+                    "worldPosition": {
+                        "x": 91.0,
+                        "y": 31.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.15)",
+                    "rarity": 1,
+                    "attack": 12,
+                    "strength": 25,
+                    "dexterity": 25,
+                    "worldPosition": {
+                        "x": 89.0,
+                        "y": 34.0
+                    }
+                },
+                {
+                    "itemName": "Epic Gear (Lv.15)",
+                    "rarity": 2,
+                    "attack": 14,
+                    "strength": 36,
+                    "dexterity": 36,
+                    "worldPosition": {
+                        "x": 92.0,
+                        "y": 30.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.15)",
+                    "rarity": 3,
+                    "attack": 21,
+                    "strength": 46,
+                    "dexterity": 48,
+                    "worldPosition": {
+                        "x": 91.0,
+                        "y": 33.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.15)",
+                    "rarity": 3,
+                    "attack": 20,
+                    "strength": 47,
+                    "dexterity": 48,
+                    "worldPosition": {
+                        "x": 96.0,
+                        "y": 32.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 16,
+            "items": [
+                {
+                    "itemName": "Epic Gear (Lv.16)",
+                    "rarity": 2,
+                    "attack": 14,
+                    "strength": 39,
+                    "dexterity": 39,
+                    "worldPosition": {
+                        "x": 95.0,
+                        "y": 48.0
+                    }
+                },
+                {
+                    "itemName": "Legendary Gear (Lv.16)",
+                    "rarity": 4,
+                    "attack": 32,
+                    "strength": 79,
+                    "dexterity": 79,
+                    "worldPosition": {
+                        "x": 89.0,
+                        "y": 48.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.16)",
+                    "rarity": 3,
+                    "attack": 22,
+                    "strength": 50,
+                    "dexterity": 50,
+                    "worldPosition": {
+                        "x": 93.0,
+                        "y": 47.0
+                    }
+                },
+                {
+                    "itemName": "Legendary Gear (Lv.16)",
+                    "rarity": 4,
+                    "attack": 32,
+                    "strength": 78,
+                    "dexterity": 81,
+                    "worldPosition": {
+                        "x": 92.0,
+                        "y": 42.0
+                    }
+                },
+                {
+                    "itemName": "Epic Gear (Lv.16)",
+                    "rarity": 2,
+                    "attack": 14,
+                    "strength": 38,
+                    "dexterity": 38,
+                    "worldPosition": {
+                        "x": 89.0,
+                        "y": 46.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.16)",
+                    "rarity": 3,
+                    "attack": 22,
+                    "strength": 49,
+                    "dexterity": 49,
+                    "worldPosition": {
+                        "x": 88.0,
+                        "y": 42.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 17,
+            "items": [
+                {
+                    "itemName": "Unique Gear (Lv.17)",
+                    "rarity": 3,
+                    "attack": 23,
+                    "strength": 55,
+                    "dexterity": 55,
+                    "worldPosition": {
+                        "x": 71.0,
+                        "y": 42.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.17)",
+                    "rarity": 3,
+                    "attack": 23,
+                    "strength": 52,
+                    "dexterity": 54,
+                    "worldPosition": {
+                        "x": 73.0,
+                        "y": 44.0
+                    }
+                },
+                {
+                    "itemName": "Epic Gear (Lv.17)",
+                    "rarity": 2,
+                    "attack": 16,
+                    "strength": 40,
+                    "dexterity": 39,
+                    "worldPosition": {
+                        "x": 79.0,
+                        "y": 45.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.17)",
+                    "rarity": 3,
+                    "attack": 21,
+                    "strength": 55,
+                    "dexterity": 54,
+                    "worldPosition": {
+                        "x": 79.0,
+                        "y": 42.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 18,
+            "items": [
+                {
+                    "itemName": "Unique Gear (Lv.18)",
+                    "rarity": 3,
+                    "attack": 22,
+                    "strength": 55,
+                    "dexterity": 58,
+                    "worldPosition": {
+                        "x": 71.0,
+                        "y": 33.0
+                    }
+                },
+                {
+                    "itemName": "Epic Gear (Lv.18)",
+                    "rarity": 2,
+                    "attack": 16,
+                    "strength": 40,
+                    "dexterity": 43,
+                    "worldPosition": {
+                        "x": 79.0,
+                        "y": 30.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.18)",
+                    "rarity": 1,
+                    "attack": 13,
+                    "strength": 29,
+                    "dexterity": 30,
+                    "worldPosition": {
+                        "x": 77.0,
+                        "y": 31.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.18)",
+                    "rarity": 3,
+                    "attack": 22,
+                    "strength": 58,
+                    "dexterity": 55,
+                    "worldPosition": {
+                        "x": 72.0,
+                        "y": 34.0
+                    }
+                },
+                {
+                    "itemName": "Epic Gear (Lv.18)",
+                    "rarity": 2,
+                    "attack": 16,
+                    "strength": 43,
+                    "dexterity": 42,
+                    "worldPosition": {
+                        "x": 74.0,
+                        "y": 32.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.18)",
+                    "rarity": 3,
+                    "attack": 24,
+                    "strength": 56,
+                    "dexterity": 55,
+                    "worldPosition": {
+                        "x": 77.0,
+                        "y": 30.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 19,
+            "items": [
+                {
+                    "itemName": "Rare Gear (Lv.19)",
+                    "rarity": 1,
+                    "attack": 13,
+                    "strength": 32,
+                    "dexterity": 32,
+                    "worldPosition": {
+                        "x": 77.0,
+                        "y": 21.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.19)",
+                    "rarity": 3,
+                    "attack": 26,
+                    "strength": 61,
+                    "dexterity": 61,
+                    "worldPosition": {
+                        "x": 74.0,
+                        "y": 21.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.19)",
+                    "rarity": 3,
+                    "attack": 25,
+                    "strength": 58,
+                    "dexterity": 60,
+                    "worldPosition": {
+                        "x": 79.0,
+                        "y": 16.0
+                    }
+                }
+            ]
+        },
+        {
+            "roomLevel": 20,
+            "items": [
+                {
+                    "itemName": "Unique Gear (Lv.20)",
+                    "rarity": 3,
+                    "attack": 26,
+                    "strength": 63,
+                    "dexterity": 64,
+                    "worldPosition": {
+                        "x": 77.0,
+                        "y": 3.0
+                    }
+                },
+                {
+                    "itemName": "Rare Gear (Lv.20)",
+                    "rarity": 1,
+                    "attack": 14,
+                    "strength": 32,
+                    "dexterity": 34,
+                    "worldPosition": {
+                        "x": 78.0,
+                        "y": 5.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.20)",
+                    "rarity": 3,
+                    "attack": 25,
+                    "strength": 64,
+                    "dexterity": 64,
+                    "worldPosition": {
+                        "x": 80.0,
+                        "y": 4.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.20)",
+                    "rarity": 3,
+                    "attack": 25,
+                    "strength": 64,
+                    "dexterity": 62,
+                    "worldPosition": {
+                        "x": 75.0,
+                        "y": 3.0
+                    }
+                },
+                {
+                    "itemName": "Epic Gear (Lv.20)",
+                    "rarity": 2,
+                    "attack": 18,
+                    "strength": 45,
+                    "dexterity": 44,
+                    "worldPosition": {
+                        "x": 76.0,
+                        "y": 8.0
+                    }
+                },
+                {
+                    "itemName": "Unique Gear (Lv.20)",
+                    "rarity": 3,
+                    "attack": 27,
+                    "strength": 62,
+                    "dexterity": 61,
+                    "worldPosition": {
+                        "x": 75.0,
+                        "y": 9.0
+                    }
+                }
+            ]
+        }
+    ]
+}
